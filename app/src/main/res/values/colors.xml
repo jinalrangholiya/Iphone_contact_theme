@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="ripple_material_dark">#33ffffff</color>
+    <color name="ripple_material_light">#1f000000</color>
+    <color name="searchbox">#5b5a5f</color>
+    <color name="lightline">#ededed</color>
+    <color name="gray">#e5e5e5</color>
+    <color name="darkgray">#a0a0a0</color>
+    <color name="darkline">#232323</color>
+    <color name="darktheme">#000000</color>
+    <color name="colorAccent">#3193F4</color>
+    <color name="colorPrimary">#fafafa</color>
+    <color name="colorPrimaryDark">#f2f1f6</color>
+    <color name="blue">#3193F4</color>
+</resources>
